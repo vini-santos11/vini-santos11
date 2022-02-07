@@ -1,6 +1,6 @@
 ### Salve, galera 👋
 
-- 🔭 Hoje trabalho como Full-Stack
+- 🔭 Hoje trabalho como Full-Stack .NET + Angular
 - 🌱 Estudando NodeJS, Typescript 
 - 📫 Contate-me no email: mvsantos.profissional@gmail.com
 - 💬 Ou no telefone: +55 (14) 9 9171-9541
