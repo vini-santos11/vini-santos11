@@ -1,7 +1,7 @@
 ### Salve, galera 👋
 
-- 🔭 Hoje trabalho como Full-Stack .NET + Angular
-- 🌱 Estudando NodeJS, Typescript 
+- 🔭 Hoje trabalho como Back-End .NET / NodeJS 
+- 🌱 Atualmente cursando PósGraduação em FullStack Development (Node, React e React Native) na FIAP.
 - 📫 Contate-me no email: mvsantos.profissional@gmail.com
 - 💬 Ou no telefone: +55 (14) 9 9171-9541
 - ⚡ "Trabalho, Esforço e Dedicação"
